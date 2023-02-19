@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="815e81a7-9c0f-4603-a86c-eb24597b37cb" name="Default Changelist" comment="drl_trainer inferencing update td3 little modify">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/worlds/turtlebot3_dqn_stage2/waffle_pi.model" beforeDir="false" afterPath="$PROJECT_DIR$/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/worlds/turtlebot3_dqn_stage2/waffle_pi.model" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ElGyQR01I2WFrfBkKUVJUSzwqA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\suk14\PycharmProjects\Graduation_Project\gazebo_random" />
+      <recent name="C:\Users\suk14\PycharmProjects\Graduation_Project\turtlebot3_ws\src\turtlebot3_machine_learning\turtlebot3_dqn\turtlebot3_dqn\real_goal" />
+      <recent name="C:\Users\suk14\PycharmProjects\Graduation_Project\turtlebot3_ws\src\turtlebot3_machine_learning\turtlebot3_dqn\turtlebot3_dqn" />
+      <recent name="C:\Users\suk14\PycharmProjects\Graduation_Project\turtlebot3_ws\install" />
+      <recent name="C:\Users\suk14\PycharmProjects\Graduation_Project\turtlebot3_ws" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="815e81a7-9c0f-4603-a86c-eb24597b37cb" name="Default Changelist" comment="" />
+      <created>1663163010366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663163010366</updated>
+    </task>
+    <task id="LOCAL-00001" summary="build dynamixel_sdk">
+      <created>1663164012484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663164012484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build dynamixel_sdk related folders and files">
+      <created>1663164244825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663164244825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="build turtlebot3, turtlebot3 related files">
+      <created>1663239263829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663239263829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="src DynamixelSDK, turtlebot3">
+      <created>1663309757386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663309757387</updated>
+    </task>
+    <task id="LOCAL-00005" summary="src turtlebot3_msgs, turtlebot3_simulations">
+      <created>1663664910764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663664910764</updated>
+    </task>
+    <task id="LOCAL-00006" summary="src turtlebot3_machine_learning">
+      <created>1663764974633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764974633</updated>
+    </task>
+    <task id="LOCAL-00007" summary="build dynamixel_sdk folders">
+      <created>1664085766893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664085766893</updated>
+    </task>
+    <task id="LOCAL-00008" summary="build turtlebot3 folders">
+      <created>1664282848077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664282848077</updated>
+    </task>
+    <task id="LOCAL-00009" summary="build turtlebot3 folders # little problem on turtlebot3_dqn">
+      <created>1664370166857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664370166857</updated>
+    </task>
+    <task id="LOCAL-00010" summary="build turtlebot3 folders">
+      <created>1664456950661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664456950661</updated>
+    </task>
+    <task id="LOCAL-00011" summary="build turtlebot3 folders">
+      <created>1664528957665</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664528957665</updated>
+    </task>
+    <task id="LOCAL-00012" summary="build turtlebot3 folders, little problem in teleop folder">
+      <created>1664604863926</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664604863926</updated>
+    </task>
+    <task id="LOCAL-00013" summary="install dynamixel_sdk folders little problems in 3 folders">
+      <created>1664957261030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664957261030</updated>
+    </task>
+    <task id="LOCAL-00014" summary="install turtlebot3, turtlebot3_bringup, turtlebot3_cartographer 3 little problem">
+      <created>1666769333586</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666769333586</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dqn_gazebo, drl_trainer little modify">
+      <created>1666773154295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773154295</updated>
+    </task>
+    <task id="LOCAL-00016" summary="turtlebot3_description little error, turtlebot3_dqn, turtlebot3_example">
+      <created>1666942093641</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666942093641</updated>
+    </task>
+    <task id="LOCAL-00017" summary="turtlebot3_fake_node, turtlebot3_gazebo, turtlebot3_machine_learning little error">
+      <created>1667045522905</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667045522905</updated>
+    </task>
+    <task id="LOCAL-00018" summary="turtlebot3_msgs, turtlebot3_navigation2, turtlebot3_node little error">
+      <created>1667219296289</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667219296289</updated>
+    </task>
+    <task id="LOCAL-00019" summary="turtlebot3_node little error, turtlebot3_simulations, etc files">
+      <created>1667316724963</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667316724963</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Real Robot Deploy real_goal.py add + setup.py modify + drl_trainer.py modify">
+      <created>1667317170835</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667317170835</updated>
+    </task>
+    <task id="LOCAL-00021" summary="auto training">
+      <created>1667317838674</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667317838674</updated>
+    </task>
+    <task id="LOCAL-00022" summary="setting deployment">
+      <created>1667479648786</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667479648786</updated>
+    </task>
+    <task id="LOCAL-00023" summary="drl_trainer modify">
+      <created>1667979458871</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667979458871</updated>
+    </task>
+    <task id="LOCAL-00024" summary="drl_trainer modify(TD3 ver)">
+      <created>1668001201608</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668001201608</updated>
+    </task>
+    <task id="LOCAL-00025" summary="real_goal_modify.py">
+      <created>1668339420987</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1668339420987</updated>
+    </task>
+    <task id="LOCAL-00026" summary="gazebo_random_world">
+      <created>1669123243784</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669123243784</updated>
+    </task>
+    <task id="LOCAL-00027" summary="gazebo_random_world waffle_pi.model modify">
+      <created>1669211078259</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669211078259</updated>
+    </task>
+    <task id="LOCAL-00028" summary="td3 reward function shaping">
+      <created>1670503674616</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1670503674616</updated>
+    </task>
+    <task id="LOCAL-00029" summary="drl_trainer inferencing update">
+      <created>1671004984073</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671004984073</updated>
+    </task>
+    <task id="LOCAL-00030" summary="drl_trainer inferencing update td3 little modify">
+      <created>1671082888628</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1671082888628</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="src DynamixelSDK, turtlebot3" />
+    <MESSAGE value="src turtlebot3_msgs, turtlebot3_simulations" />
+    <MESSAGE value="src turtlebot3_machine_learning" />
+    <MESSAGE value="build dynamixel_sdk folders" />
+    <MESSAGE value="build turtlebot3 folders # little problem on turtlebot3_dqn" />
+    <MESSAGE value="build turtlebot3 folders" />
+    <MESSAGE value="build turtlebot3 folders, little problem in teleop folder" />
+    <MESSAGE value="install dynamixel_sdk folders little problems in 3 folders" />
+    <MESSAGE value="install turtlebot3, turtlebot3_bringup, turtlebot3_cartographer 3 little problem" />
+    <MESSAGE value="dqn_gazebo, drl_trainer little modify" />
+    <MESSAGE value="turtlebot3_description little error, turtlebot3_dqn, turtlebot3_example" />
+    <MESSAGE value="turtlebot3_fake_node, turtlebot3_gazebo, turtlebot3_machine_learning little error" />
+    <MESSAGE value="turtlebot3_msgs, turtlebot3_navigation2, turtlebot3_node little error" />
+    <MESSAGE value="turtlebot3_node little error, turtlebot3_simulations, etc files" />
+    <MESSAGE value="Real Robot Deploy real_goal.py add + setup.py modify + drl_trainer.py modify" />
+    <MESSAGE value="auto training" />
+    <MESSAGE value="setting deployment" />
+    <MESSAGE value="drl_trainer modify" />
+    <MESSAGE value="drl_trainer modify(TD3 ver)" />
+    <MESSAGE value="real_goal_modify.py" />
+    <MESSAGE value="gazebo_random_world" />
+    <MESSAGE value="gazebo_random_world waffle_pi.model modify" />
+    <MESSAGE value="td3 reward function shaping" />
+    <MESSAGE value="drl_trainer inferencing update" />
+    <MESSAGE value="drl_trainer inferencing update td3 little modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="drl_trainer inferencing update td3 little modify" />
+  </component>
+</project>
